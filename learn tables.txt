@@ -7,5 +7,10 @@ monika tables 15 to 20
 i add many file
 
 
+<<<<<<< HEAD
 1 to 5 table all
 this done 1to 5
+=======
+1 to 5 table there
+there was one
+>>>>>>> there
