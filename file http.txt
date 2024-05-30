@@ -1,0 +1,6 @@
+open file add
+add file open
+open commit done
+open files chnanges
+this is add bugfix branch
+this my first try
